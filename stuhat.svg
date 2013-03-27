@@ -13,7 +13,7 @@
    height="52"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.48.1 "
+   inkscape:version="0.48.2 r9819"
    inkscape:export-filename="C:\Users\Stuart\Pictures\stuhat-c.png"
    inkscape:export-xdpi="1440"
    inkscape:export-ydpi="1440"
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="0.962188"
-     inkscape:cy="28.335423"
-     inkscape:current-layer="g3807"
+     inkscape:zoom="10.403846"
+     inkscape:cx="26"
+     inkscape:cy="26"
+     inkscape:current-layer="g3008"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="988"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -98,7 +98,7 @@
        height="64"
        width="64"
        id="rect3010"
-       style="fill:#d91f1f;fill-opacity:1;stroke:none" />
+       style="fill:#cc0000;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -113,6 +113,25 @@
        height="64"
        x="0"
        y="0" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="black-bgcircle-56"
+     id="g3009"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:export-ydpi="411.42999"
+       inkscape:export-xdpi="411.42999"
+       inkscape:export-filename="C:\Users\Stuart\Projects\art\spb-artwork\stuhat256b.png"
+       transform="matrix(0.97816594,0,0,0.97816594,1.0567685,1.6681222)"
+       d="m 54.125,24.875 a 28.625,28.625 0 1 1 -57.25,0 28.625,28.625 0 1 1 57.25,0 z"
+       sodipodi:ry="28.625"
+       sodipodi:rx="28.625"
+       sodipodi:cy="24.875"
+       sodipodi:cx="25.5"
+       id="path3011"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
   </g>
   <g
      id="layer1"
